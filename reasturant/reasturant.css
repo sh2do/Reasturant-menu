@@ -79,18 +79,14 @@ h2 {
 
 button {
   background-color: white; /* Green */
-  color: rgb(126, 108, 108);
-  padding: 10px 20px;
-  border: none;
-  cursor: pointer;
 }
 
 button:hover {
-  background-color: white; /* Darker green */
+  background-color: white;
 }
 
 a {
-  color: #c9c79e;
+  color: #ffffff;
   text-decoration: none; /* Remove underline */
 }
 
@@ -108,5 +104,5 @@ div {
 }
 
 div:hover {
-  background-color: rgb(163, 179, 179);
+  background-color: rgb(225, 234, 237);
 }
